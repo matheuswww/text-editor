@@ -1,2 +1,0 @@
-teresa: teresa.c
-	$(CC) teresa.c -o /bin/teresa -Wall -Wextra -pedantic
